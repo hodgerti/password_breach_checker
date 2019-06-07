@@ -4,7 +4,7 @@ This Python 2.7 script checks a password against a provided breach list by hashi
 
 ## Usage
 
-* File: Select which file to read breached hashes from. I suggest the list from [Have I Been Pwned](https://haveibeenpwned.com/Passwords "Named link title")
+* File: Select which file to read breached hashes from. I suggest the ordered by hash list from [Have I Been Pwned](https://haveibeenpwned.com/Passwords "Named link title")
 * GO!: Start looking for a breach
 * STOP!: Stop looking for a breach
 * Password: Password to be hashed then checked
